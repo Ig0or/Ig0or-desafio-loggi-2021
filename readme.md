@@ -6,4 +6,4 @@ Executar o arquivo desafio-loggi-principal.py que os testes aparecerão no termi
 
 Contrução da classe feita no arquivo class_pacote.py com as codições solicitadas.
 
-As demais restrições estão em restricoes.py
+As demais restrições estão em restricoes.py.
